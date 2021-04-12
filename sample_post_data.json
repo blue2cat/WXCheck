@@ -1,0 +1,17 @@
+{
+    "record_id":"1/int",
+    "round_id":"1/int",
+    "date_stored":"mm-dd-yy-mm-ss/datetime",
+    "verify_after":"mm-dd-yy-mm-ss/datetime",
+    "forecast_type":"NWS/string",
+    "forecast":{
+        "units":"US/string-2char",
+        "temp_hi":"74/double",
+        "temp_lo":"50/double",
+        "wind_stat":"9/double",
+        "wind_gust":"15/double",
+        "wind_dir":"N",
+        "wind_chill":"55/double",
+    }   
+
+}

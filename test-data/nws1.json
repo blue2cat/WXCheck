@@ -1,0 +1,17 @@
+{
+    "record_id":"2",
+    "round_id":"1",
+    "date_stored":"2021-04-16T18:00:00-05:00",
+    "verify_after":"2021-04-16T18:00:00-05:00",
+    "forecast_type":"NWS",
+    "forecast":{
+        "units":"US",
+        "temp_hi":"76",
+        "temp_lo":"52",
+        "wind_stat":"4",
+        "wind_gust":"5",
+        "wind_dir":"N",
+        "wind_chill":"56"
+    }   
+
+}
