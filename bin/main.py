@@ -7,7 +7,7 @@ import csv
 #from db_connect import *
 
 
-import csv
+
 total = int(0)
 c = int(0)
 with open('2540765.csv', 'r') as csv_file:
@@ -19,8 +19,6 @@ with open('2540765.csv', 'r') as csv_file:
             if row[18] != "":
                 temp = int(row[18])
                 c = c + 1
-                print(row[5])
-                print(row[18])
                 total = total + temp
 
 
